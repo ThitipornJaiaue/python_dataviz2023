@@ -16,5 +16,7 @@ Python & Markdown
 
 Final Score = Score * Attendance
 
+3 July -> Quiz1
+
 
 
