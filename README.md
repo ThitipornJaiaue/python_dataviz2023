@@ -8,7 +8,7 @@ Python & Markdown
 
 ## Grading
 **A** Top 10-15 B+ ถึง F ตามเกณฑ์
-- Homework (เดี่ยว, กลุ่ม-สุ่ม) 25%
+- Homework (เดี่ยว, กลุ่ม-สุ่ม) 25% 
 - Quiz (เดี่ยว) 10%
 - Project (กลุ่ม-เลือกเอง) 30%
 - Mid-term (เดี่ยว) 15% 
@@ -18,5 +18,6 @@ Final Score = Score * Attendance
 
 3 July -> Quiz1
 
-
+ชื่อกลุ่ม
+   alonedหน่าาา
 
